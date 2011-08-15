@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-Stump::Heavy - Larry's Fault
+Stump::Heavy - Mostly Larry's Fault
 
 =head1 AUTHOR
 

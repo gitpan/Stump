@@ -7,6 +7,7 @@ Stump - Larry Wall's Slideshow Software
 =head1 SYNOPSIS
 
     > stump init
+    > edit stump.input
     > stump make
     > stump speech
 
@@ -14,7 +15,7 @@ Stump - Larry Wall's Slideshow Software
 
 Stump is Larry Wall's slideshow presentation hacks, packaged up for CPAN.
 
-It takes a simple input format and some pictures and whatnot, and compiles
+Stump takes a simple input format and some pictures and whatnot, and compiles
 them into a OpenDocument (.odp) file that you view with your favorite
 slideshow software.
 

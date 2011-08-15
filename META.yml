@@ -20,7 +20,12 @@ no_index:
     - share
     - t
 requires:
+  File::Share: 0.01
+  IO::All: 0.43
+  YAML::XS: 0.35
   perl: 5.10.0
 resources:
+  homepage: http://github.com/ingydotnet/stump-pm/tree
   license: http://dev.perl.org/licenses/
-version: 0.01
+  repository: git://github.com/ingydotnet/stump-pm.git
+version: 0.02

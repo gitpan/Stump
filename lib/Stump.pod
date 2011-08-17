@@ -19,11 +19,6 @@ Stump takes a simple input format and some pictures and whatnot, and compiles
 them into a OpenDocument (.odp) file that you view with your favorite
 slideshow software.
 
-=head1 STATUS
-
-WARNING: THIS IS A VERY EARLY RELEASE. PLEASE GO AWAY NOW. WAIT FOR 0.10
-BEFORE YOU USE THIS.
-
 =head1 AUTHOR
 
 Larry Wall via Ingy döt Net <ingy@cpan.org>

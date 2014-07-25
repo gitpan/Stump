@@ -1,30 +1,21 @@
----
-version: 0.06
-date:    Sat Aug 27 14:36:31 CEST 2011
-changes:
-- Require MouseX::App::Cmd
----
-version: 0.05
-date:    Fri Aug 26 01:52:50 CEST 2011
-changes:
-- Require Mouse
----
-version: 0.04
-date:    Mon Aug 22 11:10:02 CEST 2011
-changes:
-- Require App::Cmd
----
-version: 0.03
-date:    Wed Aug 17 11:57:51 EEST 2011
-changes:
-- Remove conf as option
----
-version: 0.02
-date:    Mon Aug 15 15:30:53 EEST 2011
-changes:
-- Make it actually work...
----
-version: 0.01
-date:    Mon Aug 15 13:04:38 EEST 2011
-changes:
-- First Release
+0.07 Thu Jul 24 23:39:35 PDT 2014
+ - Switch to Zilla-Dist
+
+0.06 Sat Aug 27 14:36:31 CEST 2011
+ - Require MouseX::App::Cmd
+
+0.05 Fri Aug 26 01:52:50 CEST 2011
+ - Require Mouse
+
+0.04 Mon Aug 22 11:10:02 CEST 2011
+ - Require App::Cmd
+
+0.03 Wed Aug 17 11:57:51 EEST 2011
+ - Remove conf as option
+
+0.02 Mon Aug 15 15:30:53 EEST 2011
+ - Make it actually work...
+
+0.01 Mon Aug 15 13:04:38 EEST 2011
+ - First Release
+

@@ -34,7 +34,7 @@ my %WriteMakefileArgs = (
     "MouseX::App::Cmd" => "0.08",
     "YAML::XS" => "0.35"
   },
-  "VERSION" => "0.07",
+  "VERSION" => "0.08",
   "test" => {
     "TESTS" => "t/*.t"
   }

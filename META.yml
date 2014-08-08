@@ -31,4 +31,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/stump-pm/issues
   homepage: https://github.com/ingydotnet/stump-pm
   repository: https://github.com/ingydotnet/stump-pm.git
-version: '0.08'
+version: '0.09'

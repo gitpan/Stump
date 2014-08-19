@@ -15,4 +15,5 @@ share/conf.yaml
 share/image/picture.jpg
 share/stump.input
 share/stump.odp
+t/000-compile-modules.t
 t/release-pod-syntax.t
